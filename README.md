@@ -6,7 +6,7 @@
   <a href="https://linkedin.com/in/tiagofaraujo" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
-  <a href="https://www.codewars.com/users/tiagofaraujo" target="_blank">
+ <a href="https://www.codewars.com/users/tiagofaraujo" target="_blank">
     <img src="https://www.codewars.com/assets/logos/logo-red-big-c189f6abd2.svg" alt="Codewars" height="30" width="40"/>
   </a>
 </p>
@@ -32,9 +32,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
 </p>
-              
-              <div>
+
+<div>       
   <h2>Resume Profiles</h2>
+
     <div>
     <h3>Fullstack Web Developer</h3>
     <img src="https://media.licdn.com/dms/image/D4D22AQERsbyN7E9O-A/feedshare-shrink_800/0/1683038647331?e=1686787200&v=beta&t=0bGxmEglmCH06iwKI2_h-chNqG-ikgbxTffronxrpic" alt="Fullstack Web Developer Image" height="200" width="400"/>
