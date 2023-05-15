@@ -5,8 +5,8 @@
   <a href="https://linkedin.com/in/tiagofaraujo" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
-  <a href="https://www.codewars.com/users/your_codewars_username" target="_blank">
-    <img src="https://www.codewars.com/assets/logos/logo-red-big-c189f6abd2.svg" alt="Codewars" height="30" width="40"/>
+  <a href="https://www.codewars.com/users/tiagofaraujo" target="_blank">
+    <img src="https://w7.pngwing.com/pngs/276/275/png-transparent-codewars-social-set-round-icon-thumbnail.png" alt="Codewars" height="30" width="40"/>
   </a>
 </p>
 
