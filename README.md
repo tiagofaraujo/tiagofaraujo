@@ -17,10 +17,10 @@
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg
-<div>
+<div>       
   <h2>Resume Profiles</h2>
-  
-  <div>
+
+    <div>
     <h3>Fullstack Web Developer</h3>
     <img src="https://media.licdn.com/dms/image/D4D22AQERsbyN7E9O-A/feedshare-shrink_800/0/1683038647331?e=1686787200&v=beta&t=0bGxmEglmCH06iwKI2_h-chNqG-ikgbxTffronxrpic" alt="Fullstack Web Developer Image" height="200" width="400"/>
     <p>
