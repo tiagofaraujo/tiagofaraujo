@@ -7,7 +7,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
  <a href="https://www.codewars.com/users/tiagofaraujo" target="_blank">
-    <img src="https://www.codewars.com/assets/logos/logo-red-big-c189f6abd2.svg" alt="Codewars" height="30" width="40"/>
+    <img src="https://docs.codewars.com/logo.svg" alt="Codewars" height="30" width="40"/>
   </a>
 </p>
 
