@@ -34,7 +34,13 @@
 </p>
 
 <div>       
-  <h2>Resume Profiles</h2>
+  <h2>Resume Profile</h2>
+    <h3>Fullstack Web Developer</h3>
+    <img src="https://media.licdn.com/dms/image/D4D22AQERsbyN7E9O-A/feedshare-shrink_800/0/1683038647331?e=1686787200&v=beta&t=0bGxmEglmCH06iwKI2_h-chNqG-ikgbxTffronxrpic" alt="Fullstack Web Developer Image" height="200" width="400"/>
+    <p>
+      Fullstack Web Developer with a recent certification from Ironhack Bootcamp. Proficient in HTML, CSS, JavaScript, and React, with experience in building responsive, user-friendly web applications. Passionate about using technology to solve real-world problems and enhance user experiences.
+    </p>
+       </div>
   <div>
     <h3>Radiographer</h3>
     <img src="https://media.licdn.com/dms/image/C5622AQFi4Uz-Kq2kGQ/feedshare-shrink_1280/0/1592525103608?e=1686787200&v=beta&t=YExJC-6k2oZF4HPSzuBvlRXEtjzXznF1AtdtFEObt_8" alt="Radiographer Image" height="200" width="400"/>
@@ -43,13 +49,7 @@
     </p>
   </div>
     <div>
-    <h3>Fullstack Web Developer</h3>
-    <img src="https://media.licdn.com/dms/image/D4D22AQERsbyN7E9O-A/feedshare-shrink_800/0/1683038647331?e=1686787200&v=beta&t=0bGxmEglmCH06iwKI2_h-chNqG-ikgbxTffronxrpic" alt="Fullstack Web Developer Image" height="200" width="400"/>
-    <p>
-      Fullstack Web Developer with a recent certification from Ironhack Bootcamp. Proficient in HTML, CSS, JavaScript, and React, with experience in building responsive, user-friendly web applications. Passionate about using technology to solve real-world problems and enhance user experiences.
-    </p>
-       </div>
-  <div>
+    <div>
     <h3>Sports Project Leader</h3>
     <img src="https://media.licdn.com/dms/image/C4D22AQFR_i6tNteGew/feedshare-shrink_800/0/1672666903212?e=1686787200&v=beta&t=bC1P8MAVuy7PMWLUckx2ek1M0lWC72KH6Pp13yoORkg" alt="Sports Project Leader Image" height="200" width="400"/>
     <p>
