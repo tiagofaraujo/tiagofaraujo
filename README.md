@@ -9,6 +9,8 @@
  <a href="https://www.codewars.com/users/tiagofaraujo" target="_blank">
     <img src="https://docs.codewars.com/logo.svg" alt="Codewars" height="30" width="40"/>
   </a>
+  <h2>Contact</h2>
+<p>You can reach me at <a href="mailto:tiago_araujo@hotmail.com">tiago_araujo@hotmail.com</a>.</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
