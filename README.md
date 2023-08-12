@@ -37,14 +37,14 @@
 <div>       
   <h2>Resume Profile</h2>
     <h3>💻Fullstack Web Developer</h3>
-    <img src="https://media.licdn.com/dms/image/D4D22AQERsbyN7E9O-A/feedshare-shrink_800/0/1683038647331?e=1686787200&v=beta&t=0bGxmEglmCH06iwKI2_h-chNqG-ikgbxTffronxrpic" alt="Fullstack Web Developer Image" height="200" width="400"/>
+    <img src="https://media.licdn.com/dms/image/D4D22AQERsbyN7E9O-A/feedshare-shrink_2048_1536/0/1683038647129?e=1694649600&v=beta&t=Ivz70Ha6QfIxVzztbaMmq1apmbGD5u49eNWOIan2Ff4" alt="Fullstack Web Developer Image" height="200" width="400"/>
     <p>
       Fullstack Web Developer with a recent certification from Ironhack Bootcamp. Proficient in HTML, CSS, JavaScript, and React, with experience in building responsive, user-friendly web applications. Passionate about using technology to solve real-world problems and enhance user experiences.
     </p>
        </div>
   <div>
     <h3>💀Radiographer</h3>
-    <img src="https://media.licdn.com/dms/image/C5622AQFi4Uz-Kq2kGQ/feedshare-shrink_1280/0/1592525103608?e=1686787200&v=beta&t=YExJC-6k2oZF4HPSzuBvlRXEtjzXznF1AtdtFEObt_8" alt="Radiographer Image" height="200" width="400"/>
+    <img src="https://media.licdn.com/dms/image/C5622AQFi4Uz-Kq2kGQ/feedshare-shrink_1280/0/1592525103608?e=1694649600&v=beta&t=M_xFlmtUJ-KcVMs83qYzYBWuMooHmGzlFKcFI5EALtc" alt="Radiographer Image" height="200" width="400"/>
     <p>
       Radiographer with 20 years of experience in MRI, CT, and Angiography techniques. Skilled in patient care, diagnostic imaging, and interpreting medical images. Committed to staying up-to-date with industry advancements and improving patient outcomes.
     </p>
@@ -52,7 +52,7 @@
     <div>
     <div>
     <h3>🏃Sports Project Leader</h3>
-    <img src="https://media.licdn.com/dms/image/C4D22AQFR_i6tNteGew/feedshare-shrink_800/0/1672666903212?e=1686787200&v=beta&t=bC1P8MAVuy7PMWLUckx2ek1M0lWC72KH6Pp13yoORkg" alt="Sports Project Leader Image" height="200" width="400"/>
+    <img src="https://media-cdn.tripadvisor.com/media/photo-s/18/dd/ed/3d/trail-world-championships.jpg" alt="Sports Project Leader Image" height="200" width="400"/>
     <p>
       Experienced sports project leader with 25 years of volunteer work. Led multiple successful projects focused on promoting community engagement through sports. Strong communication and leadership skills, with a passion for empowering individuals and groups through team-oriented activities.
     </p>
